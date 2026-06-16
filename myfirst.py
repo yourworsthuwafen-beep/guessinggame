@@ -18,7 +18,7 @@ SYSTEM_FAILURE // CODE_RED // MEMORY_CORRUPTION_DETECTED
         print ("""
 S̶Y̶S̶T̶E̶M̶ ̶F̶A̶I̶L̶U̶R̶E̶ ̶D̶E̶T̶E̶C̶T̶E̶D̶
 K̶e̶r̶n̶e̶l̶ ̶P̶a̶n̶i̶c̶:̶ ̶V̶i̶r̶t̶u̶a̶l̶ ̶m̶e̶m̶o̶r̶y̶ ̶e̶x̶h̶a̶u̶s̶t̶e̶d̶
-[☠️] 0xØØF_CRASH: ▓▒░ µŠ‡†•¶§¤æßðøþ¿¡
+[☠️] 0xØØF_CRASH: ▓▒░ µŠ‡†•¶§¤æßðøþ¡
 E̷R̷R̷O̷R̷:̷ ̷C̷O̷R̷E̷_̷D̷U̷M̷P̷_̷F̷A̷I̷L̷E̷D̷
 H̸A̸L̸T̸I̸N̸G̸ ̸A̸L̸L̸ ̸P̸R̸O̸C̸E̸S̸S̸E̸S̸.̸.̸.̸
 """)
@@ -114,7 +114,6 @@ python is fun for a message
 tries = 0
 guess = ''
 print ('--------GUESS THE WORD--------')
-print ('presented by...izyaan')
 print ('write help to be a cheater and see the word')
 print('write cmd for OS System Commands')
 print ('hint:you use it to clean')
