@@ -1,3 +1,4 @@
+import os
 import time
 def detonate(word):
         print ('oops too many tries')
